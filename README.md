@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djmattyb206
 - 👀 I’m interested in learning Python and working on smarthome applications
 - 🌱 I’m currently learning Python and how to use various APIs
-- 📫 How to reach me: djmattyb@gmail.com
+- 📫 How to reach me: mattjohnson206@icloud.com
 
 # Matt Johnson
 
