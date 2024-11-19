@@ -78,7 +78,7 @@ I am a highly skilled Healthcare Data Analyst with over 17 years of experience i
 ## Contact
 
 - **LinkedIn:** [Matt Johnson](https://www.linkedin.com/in/mattjohnson206/)  
-- **Email:** [matt.johnson@premera.com](mailto:matt.johnson@premera.com)
+- **Email:** [mattjohnson206@icloud.com](mailto:mattjohnson206@icloud.com)
 
 
 <!---
