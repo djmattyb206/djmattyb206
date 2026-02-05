@@ -6,7 +6,7 @@
 # Matt Johnson
 
 **Systems Analyst at Premera Blue Cross**  
-**Business Intelligence | SQL | Python |Data-Driven | Informatics | AI-Enhanced Software Development | Fundamental Intelligence**
+**Business Intelligence | SQL | Python | Data-Driven | Informatics | AI-Enhanced Software Development | Fundamental Intelligence**
 
 ---
 
